@@ -1,0 +1,54 @@
+body{
+    background-color:aqua;
+
+}
+.img{
+    border-radius: 50%;
+    object-fit: cover;
+}
+a{
+    color:blue;
+    float: right;
+    padding: 10px;
+}
+p{
+    background-color: azure;
+    color:black;
+    padding: 20px;
+    letter-spacing: 3px;
+    
+}
+ol li{
+    color:brown;
+    padding: 20px;
+    margin: 10px;
+    
+}
+ul li{
+    color:brown;
+    padding: 20px;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+}
+.image-container{
+    text-align: center;
+    margin-top: 50px;
+}
+.round-image{
+width: 200px;
+height: 200px;
+object-fit:cover;
+border-radius: 50%;
+border: 2px,solid #000;
+}
+h3 p{
+    letter-spacing: 5%;
+    padding: 10px;
+    text-align: center;
+}
